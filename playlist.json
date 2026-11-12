@@ -1,5 +1,5 @@
 {
-  "version": "supertop-products-4-v1",
+  "version": "supertop-products-6-v2",
   "slides": [
     {
       "title": "ถั่วแขกพม่า จัมโบ้ — ราคาดีลเลอร์",
@@ -20,6 +20,16 @@
       "title": "ถั่วเหลือง — ราคาดีลเลอร์",
       "layout": "poster",
       "image": "soybean.png"
+    },
+    {
+      "title": "รวมราคาดีลเลอร์",
+      "layout": "poster",
+      "image": "dealer-prices.png"
+    },
+    {
+      "title": "รวมราคาปลีก",
+      "layout": "poster",
+      "image": "retail-prices.png"
     }
   ]
 }
