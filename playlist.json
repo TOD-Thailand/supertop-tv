@@ -1,0 +1,25 @@
+{
+  "version": "supertop-products-4-v1",
+  "slides": [
+    {
+      "title": "ถั่วแขกพม่า จัมโบ้ — ราคาดีลเลอร์",
+      "layout": "poster",
+      "image": "beans-offer.png"
+    },
+    {
+      "title": "ทานตะวันนำเข้า L — ราคาดีลเลอร์",
+      "layout": "poster",
+      "image": "sunflower-l.png"
+    },
+    {
+      "title": "ทานตะวันนำเข้า M — ราคาดีลเลอร์",
+      "layout": "poster",
+      "image": "sunflower-m.png"
+    },
+    {
+      "title": "ถั่วเหลือง — ราคาดีลเลอร์",
+      "layout": "poster",
+      "image": "soybean.png"
+    }
+  ]
+}
